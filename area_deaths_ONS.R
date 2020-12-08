@@ -55,40 +55,48 @@ dat <- merge(dat, dat_wave1)
 dat$Area.name <- factor(dat$Area.name, levels = dat_wave1$Area.name)
 
 # convert weeks to calendar time
+dat$date <- as.Date(paste(2020, dat$Week.number, 1, sep="-"), "%Y-%U-%u")
 
 # ----------------------------------------------------------------
 
 # plot
 plot1 <- ggplot(data = dat) + theme_bw() +
-  geom_raster(aes(x = Week.number, y = Area.name, fill = prop_covid)) +
+  geom_raster(aes(x = date, y = Area.name, fill = prop_covid)) +
   scale_fill_viridis_c(option = "magma", na.value = "black", name = "Proportion\ndeaths due to\nCOVID-19\n") +
   facet_wrap(~Place.of.death) +
   theme(axis.text.y = element_blank(), axis.ticks.y = element_blank()) +
-  scale_x_continuous(expand = c(0, 0)) +
-  xlab("Week (year 2020)") + ylab("") +
-  coord_cartesian(xlim = range(dat$Week.number), clip = "off") +
+  scale_x_date(expand = c(0, 0)) +
+  xlab("Date (year 2020)") + ylab("") +
+  coord_cartesian(xlim = range(dat$date), clip = "off") +
   theme(strip.background = element_blank(),
         strip.text = element_text(size = 10, face = "bold")) +
   ggtitle("Has the second wave affected the same or different\nparts of the UK?")
 
-# annotate
-df_ann <- data.frame(x = -20,
+# annotate with text
+df_ann <- data.frame(x = as.Date("2019-08-01"),
                      y = c(15, 330),
                      label = c("Areas spared\nin first wave", "Areas hit hard\nin first wave"),
                      Place.of.death = "Hospital")
-df_ann$Place.of.death <- factor(df_ann$Place.of.death)
+df_ann$Place.of.death <- factor(df_ann$Place.of.death, levels = levels(dat$Place.of.death))
 
 plot1 <- plot1 +
   theme(plot.margin = unit(c(0.5, 0.5, 0.5, 3), "cm")) +
-  geom_text(aes(x = x, y = y, label = label), size = 3.5, data = df_ann) +
-  annotate("segment", x = -20, y = 170, xend = -20, yend = 305,
-           arrow = arrow(length = unit(0.3, "cm"))) +
-  annotate("segment", x = -20, y = 170, xend = -20, yend = 40,
-           arrow = arrow(length = unit(0.3, "cm")))
+  geom_text(aes(x = x, y = y, label = label), size = 3.5, data = df_ann)
+
+# anotate with arrow
+df_arrow <- data.frame(x = df_ann$x,
+                       y = c(170, 170),
+                       yend = c(305, 40),
+                       Place.of.death = "Hospital")
+df_arrow$Place.of.death <- factor(df_arrow$Place.of.death, levels = levels(dat$Place.of.death))
+
+plot1 <- plot1 +
+  geom_segment(aes(x = x, xend = x, y = y, yend = yend), arrow = arrow(length = unit(0.3, "cm")),
+               data = df_arrow)
 
 # add caption
 plot1 <- plot1 +
-  labs(caption = "\nData from ONS (https://tinyurl.com/y7vefxce). England and Wales only\ncode available at www.github.com/bobverity/COVID_datavis") +
+  labs(caption = "\nData from ONS (https://tinyurl.com/y7vefxce). England and Wales only\ncode available at https://github.com/bobverity/COVID_datavis") +
   theme(plot.caption = element_text(hjust = 0))
 
 plot1
