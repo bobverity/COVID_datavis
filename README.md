@@ -10,4 +10,15 @@ This script pulls in data taken from the Office for National Statistics (https:/
 
 If the first and second waves were in different parts of the country then we would expect to see gaps in the top-right of the plot (low deaths in second wave due to saturation in first wave) and bright colours in the bottom right (high deaths in second wave given naive population).
 
-![COVID deaths by area](https://github.com/bobverity/COVID_datavis/blob/master/output/prop_covid_deaths_by_area.png?raw=true)
+![COVID-19 deaths by area](https://github.com/bobverity/COVID_datavis/blob/master/output/prop_covid_deaths_by_area.png?raw=true)
+
+
+## Do pre-existing conditions explain the strong\nage-gradient in COVID-19 deaths?
+
+See script *age_conditions.R*.
+
+We know that both age and the presence of certain underlying conditions (such as Diabetes, heart disease) are risk factors for death from COVID-19. But these two things are highly confounded, as people tend to develop more conditions as they age. This script attempts to pull this apart in a very basic way by looking at the age-distribution of deaths in those *without* any pre-existing conditions.
+
+Results indicate that age still plays an important role even in otherwise health individuals.
+
+![Age-distribution of COVID-19 deaths with and without pre-existing conditions](https://github.com/bobverity/COVID_datavis/blob/master/output/age_conditions.png?raw=true)
