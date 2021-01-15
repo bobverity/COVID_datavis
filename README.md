@@ -17,8 +17,8 @@ If the first and second waves were in different parts of the country then we wou
 
 See script *age_conditions.R*.
 
-We know that both age and the presence of certain underlying conditions (such as Diabetes, heart disease) are risk factors for death from COVID-19. But these two things are highly confounded, as people tend to develop more conditions as they age. This script attempts to pull this apart in a very basic way by looking at the age-distribution of deaths in those *without* any pre-existing conditions.
+We know that both age and the presence of certain underlying conditions (such as Diabetes, heart disease) are risk factors for death from COVID-19. But these two things are highly confounded, as people tend to develop more conditions as they age. This plot attempts to pull this apart in a very basic way by looking at the age-distribution of deaths in those *without* any pre-existing conditions, compared with those with at least one condition.
 
-Results indicate that age still plays an important role even in otherwise health individuals.
+Results indicate that age still plays an important role even in otherwise-healthy individuals.
 
 ![Age-distribution of COVID-19 deaths with and without pre-existing conditions](https://github.com/bobverity/COVID_datavis/blob/master/output/age_conditions.png?raw=true)
