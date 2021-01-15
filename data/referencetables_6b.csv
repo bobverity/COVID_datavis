@@ -1,0 +1,694 @@
+﻿Country,Geography code,Sex,Age,Main pre-existing condition,Number of deaths
+England,E92000001,Persons,0-44,No pre-existing condition,95
+England,E92000001,Persons,0-44,Influenza and pneumonia,80
+England,E92000001,Persons,0-44,Diabetes,27
+England,E92000001,Persons,0-44,Cirrhosis and other diseases of liver,26
+England,E92000001,Persons,0-44,Congenital malformations deformations and chromosomal abnormalities,16
+England,E92000001,Persons,0-44,Malignant neoplasms of lymphoid haematopoietic and related tissue,13
+England,E92000001,Persons,0-44,Chronic lower respiratory diseases,10
+England,E92000001,Persons,0-44,Hypertensive diseases,7
+England,E92000001,Persons,0-44,Ischaemic heart diseases,6
+England,E92000001,Persons,0-44,Cerebrovascular diseases,5
+England,E92000001,Persons,0-44,Malignant neoplasms of breast,5
+England,E92000001,Persons,0-44,Epilepsy and status epilepticus,4
+England,E92000001,Persons,0-44,Malignant neoplasm of colon sigmoid rectum and anus,4
+England,E92000001,Persons,0-44,Pulmonary heart disease and diseases of pulmonary circulation,4
+England,E92000001,Persons,0-44,Symptoms signs and ill-defined conditions,4
+England,E92000001,Persons,0-44,Cerebral palsy and other paralytic syndromes,3
+England,E92000001,Persons,0-44,Diseases of the urinary system,3
+England,E92000001,Persons,0-44,Heart failure and complications and ill-defined heart disease,3
+England,E92000001,Persons,0-44,Mental and behavioural disorders due to psychoactive substance use,3
+England,E92000001,Persons,0-44,Other degenerative diseases of nervous system not elsewhere classified,3
+England,E92000001,Persons,0-44,All deaths involving COVID-19,517
+England,E92000001,Persons,45-49,No pre-existing condition,89
+England,E92000001,Persons,45-49,Influenza and pneumonia,80
+England,E92000001,Persons,45-49,Diabetes,25
+England,E92000001,Persons,45-49,Cirrhosis and other diseases of liver,21
+England,E92000001,Persons,45-49,Chronic lower respiratory diseases,15
+England,E92000001,Persons,45-49,Ischaemic heart diseases,13
+England,E92000001,Persons,45-49,Cerebrovascular diseases,11
+England,E92000001,Persons,45-49,Hypertensive diseases,9
+England,E92000001,Persons,45-49,Transplanted organ and tissue status,7
+England,E92000001,Persons,45-49,Malignant neoplasms of lymphoid haematopoietic and related tissue,6
+England,E92000001,Persons,45-49,Malignant neoplasms of breast,5
+England,E92000001,Persons,45-49,Symptoms signs and ill-defined conditions,5
+England,E92000001,Persons,45-49,Congenital malformations deformations and chromosomal abnormalities,3
+England,E92000001,Persons,45-49,Diseases of the musculoskeletal system and connective tissue,3
+England,E92000001,Persons,45-49,Malignant neoplasm of trachea bronchus and lung,3
+England,E92000001,Persons,45-49,Secondary malignant neoplasm of other sites,3
+England,E92000001,Persons,45-49,Systemic atrophies primarily affecting the central nervous system,3
+England,E92000001,Persons,45-49,Cardiomyopathy,2
+England,E92000001,Persons,45-49,Intracranial injury,2
+England,E92000001,Persons,45-49,Malignant neoplasm of brain,2
+England,E92000001,Persons,45-49,All deaths involving COVID-19,441
+England,E92000001,Persons,50-54,Influenza and pneumonia,125
+England,E92000001,Persons,50-54,No pre-existing condition,111
+England,E92000001,Persons,50-54,Chronic lower respiratory diseases,63
+England,E92000001,Persons,50-54,Diabetes,49
+England,E92000001,Persons,50-54,Ischaemic heart diseases,41
+England,E92000001,Persons,50-54,Cirrhosis and other diseases of liver,39
+England,E92000001,Persons,50-54,Hypertensive diseases,39
+England,E92000001,Persons,50-54,Cerebrovascular diseases,23
+England,E92000001,Persons,50-54,Malignant neoplasms of lymphoid haematopoietic and related tissue,15
+England,E92000001,Persons,50-54,Malignant neoplasms of breast,10
+England,E92000001,Persons,50-54,Malignant neoplasm of trachea bronchus and lung,8
+England,E92000001,Persons,50-54,Diseases of the urinary system,7
+England,E92000001,Persons,50-54,Multiple sclerosis,7
+England,E92000001,Persons,50-54,Malignant neoplasm of colon sigmoid rectum and anus,6
+England,E92000001,Persons,50-54,Symptoms signs and ill-defined conditions,6
+England,E92000001,Persons,50-54,Congenital malformations deformations and chromosomal abnormalities,5
+England,E92000001,Persons,50-54,Intracranial injury,5
+England,E92000001,Persons,50-54,Diseases of the musculoskeletal system and connective tissue,4
+England,E92000001,Persons,50-54,Malignant neoplasm of brain,4
+England,E92000001,Persons,50-54,Mental and behavioural disorders due to psychoactive substance use,4
+England,E92000001,Persons,50-54,All deaths involving COVID-19,803
+England,E92000001,Persons,55-59,No pre-existing condition,209
+England,E92000001,Persons,55-59,Influenza and pneumonia,157
+England,E92000001,Persons,55-59,Chronic lower respiratory diseases,115
+England,E92000001,Persons,55-59,Ischaemic heart diseases,106
+England,E92000001,Persons,55-59,Hypertensive diseases,89
+England,E92000001,Persons,55-59,Diabetes,80
+England,E92000001,Persons,55-59,Cirrhosis and other diseases of liver,49
+England,E92000001,Persons,55-59,Malignant neoplasms of lymphoid haematopoietic and related tissue,32
+England,E92000001,Persons,55-59,Cerebrovascular diseases,30
+England,E92000001,Persons,55-59,Malignant neoplasm of trachea bronchus and lung,30
+England,E92000001,Persons,55-59,Congenital malformations deformations and chromosomal abnormalities,22
+England,E92000001,Persons,55-59,Diseases of the urinary system,15
+England,E92000001,Persons,55-59,Malignant neoplasms of breast,14
+England,E92000001,Persons,55-59,Transplanted organ and tissue status,14
+England,E92000001,Persons,55-59,Dementia and Alzheimer's disease,12
+England,E92000001,Persons,55-59,Malignant neoplasm of colon sigmoid rectum and anus,10
+England,E92000001,Persons,55-59,Heart failure and complications and ill-defined heart disease,9
+England,E92000001,Persons,55-59,Systemic atrophies primarily affecting the central nervous system,7
+England,E92000001,Persons,55-59,Malignant neoplasm of brain,6
+England,E92000001,Persons,55-59,Multiple sclerosis,6
+England,E92000001,Persons,55-59,All deaths involving COVID-19,"1,375"
+England,E92000001,Persons,60-64,Influenza and pneumonia,257
+England,E92000001,Persons,60-64,No pre-existing condition,215
+England,E92000001,Persons,60-64,Ischaemic heart diseases,212
+England,E92000001,Persons,60-64,Chronic lower respiratory diseases,200
+England,E92000001,Persons,60-64,Hypertensive diseases,104
+England,E92000001,Persons,60-64,Diabetes,95
+England,E92000001,Persons,60-64,Cerebrovascular diseases,59
+England,E92000001,Persons,60-64,Malignant neoplasms of lymphoid haematopoietic and related tissue,52
+England,E92000001,Persons,60-64,Malignant neoplasm of trachea bronchus and lung,39
+England,E92000001,Persons,60-64,Dementia and Alzheimer's disease,38
+England,E92000001,Persons,60-64,Cirrhosis and other diseases of liver,35
+England,E92000001,Persons,60-64,Diseases of the urinary system,25
+England,E92000001,Persons,60-64,Transplanted organ and tissue status,23
+England,E92000001,Persons,60-64,Multiple sclerosis,17
+England,E92000001,Persons,60-64,Other medical care,14
+England,E92000001,Persons,60-64,Malignant neoplasms of breast,12
+England,E92000001,Persons,60-64,Malignant neoplasm of prostate,11
+England,E92000001,Persons,60-64,Pulmonary heart disease and diseases of pulmonary circulation,11
+England,E92000001,Persons,60-64,Symptoms signs and ill-defined conditions,11
+England,E92000001,Persons,60-64,Heart failure and complications and ill-defined heart disease,9
+England,E92000001,Persons,60-64,All deaths involving COVID-19,"1,970"
+England,E92000001,Persons,65-69,Chronic lower respiratory diseases,312
+England,E92000001,Persons,65-69,Influenza and pneumonia,311
+England,E92000001,Persons,65-69,Ischaemic heart diseases,278
+England,E92000001,Persons,65-69,No pre-existing condition,278
+England,E92000001,Persons,65-69,Diabetes,156
+England,E92000001,Persons,65-69,Cerebrovascular diseases,110
+England,E92000001,Persons,65-69,Dementia and Alzheimer's disease,102
+England,E92000001,Persons,65-69,Hypertensive diseases,68
+England,E92000001,Persons,65-69,Malignant neoplasms of lymphoid haematopoietic and related tissue,67
+England,E92000001,Persons,65-69,Malignant neoplasm of trachea bronchus and lung,64
+England,E92000001,Persons,65-69,Diseases of the urinary system,43
+England,E92000001,Persons,65-69,Cirrhosis and other diseases of liver,42
+England,E92000001,Persons,65-69,Multiple sclerosis,23
+England,E92000001,Persons,65-69,Pulmonary oedema and other intestinal pulmonary diseases,21
+England,E92000001,Persons,65-69,Symptoms signs and ill-defined conditions,21
+England,E92000001,Persons,65-69,Secondary malignant neoplasm of other sites,18
+England,E92000001,Persons,65-69,Malignant neoplasm of colon sigmoid rectum and anus,16
+England,E92000001,Persons,65-69,Heart failure and complications and ill-defined heart disease,15
+England,E92000001,Persons,65-69,Malignant neoplasm of prostate,15
+England,E92000001,Persons,65-69,Malignant neoplasm of oesophagus,13
+England,E92000001,Persons,65-69,All deaths involving COVID-19,"2,629"
+England,E92000001,Persons,70-74,Chronic lower respiratory diseases,654
+England,E92000001,Persons,70-74,Ischaemic heart diseases,537
+England,E92000001,Persons,70-74,Dementia and Alzheimer's disease,448
+England,E92000001,Persons,70-74,Influenza and pneumonia,417
+England,E92000001,Persons,70-74,No pre-existing condition,370
+England,E92000001,Persons,70-74,Diabetes,223
+England,E92000001,Persons,70-74,Cerebrovascular diseases,198
+England,E92000001,Persons,70-74,Hypertensive diseases,110
+England,E92000001,Persons,70-74,Malignant neoplasm of trachea bronchus and lung,102
+England,E92000001,Persons,70-74,Diseases of the urinary system,93
+England,E92000001,Persons,70-74,Malignant neoplasms of lymphoid haematopoietic and related tissue,88
+England,E92000001,Persons,70-74,Parkinson's disease,60
+England,E92000001,Persons,70-74,Malignant neoplasm of prostate,46
+England,E92000001,Persons,70-74,Symptoms signs and ill-defined conditions,36
+England,E92000001,Persons,70-74,Malignant neoplasm of colon sigmoid rectum and anus,28
+England,E92000001,Persons,70-74,Heart failure and complications and ill-defined heart disease,27
+England,E92000001,Persons,70-74,Pulmonary oedema and other intestinal pulmonary diseases,24
+England,E92000001,Persons,70-74,Secondary malignant neoplasm of other sites,20
+England,E92000001,Persons,70-74,Other degenerative diseases of nervous system not elsewhere classified,18
+England,E92000001,Persons,70-74,Malignant neoplasms of breast,17
+England,E92000001,Persons,70-74,All deaths involving COVID-19,"4,368"
+England,E92000001,Persons,75-79,Dementia and Alzheimer's disease,"1,307"
+England,E92000001,Persons,75-79,Chronic lower respiratory diseases,846
+England,E92000001,Persons,75-79,Ischaemic heart diseases,795
+England,E92000001,Persons,75-79,Influenza and pneumonia,515
+England,E92000001,Persons,75-79,No pre-existing condition,485
+England,E92000001,Persons,75-79,Diabetes,243
+England,E92000001,Persons,75-79,Cerebrovascular diseases,230
+England,E92000001,Persons,75-79,Diseases of the urinary system,163
+England,E92000001,Persons,75-79,Hypertensive diseases,115
+England,E92000001,Persons,75-79,Parkinson's disease,99
+England,E92000001,Persons,75-79,Malignant neoplasm of trachea bronchus and lung,88
+England,E92000001,Persons,75-79,Symptoms signs and ill-defined conditions,84
+England,E92000001,Persons,75-79,Malignant neoplasms of lymphoid haematopoietic and related tissue,81
+England,E92000001,Persons,75-79,Malignant neoplasm of prostate,78
+England,E92000001,Persons,75-79,Heart failure and complications and ill-defined heart disease,42
+England,E92000001,Persons,75-79,Pulmonary oedema and other intestinal pulmonary diseases,36
+England,E92000001,Persons,75-79,Fracture of femur,31
+England,E92000001,Persons,75-79,Other degenerative diseases of nervous system not elsewhere classified,31
+England,E92000001,Persons,75-79,Malignant neoplasms of breast,27
+England,E92000001,Persons,75-79,Diseases of the musculoskeletal system and connective tissue,21
+England,E92000001,Persons,75-79,All deaths involving COVID-19,"6,351"
+England,E92000001,Persons,80-84,Dementia and Alzheimer's disease,"2,771"
+England,E92000001,Persons,80-84,Ischaemic heart diseases,"1,205"
+England,E92000001,Persons,80-84,Chronic lower respiratory diseases,852
+England,E92000001,Persons,80-84,Influenza and pneumonia,717
+England,E92000001,Persons,80-84,No pre-existing condition,654
+England,E92000001,Persons,80-84,Cerebrovascular diseases,386
+England,E92000001,Persons,80-84,Diseases of the urinary system,286
+England,E92000001,Persons,80-84,Symptoms signs and ill-defined conditions,267
+England,E92000001,Persons,80-84,Diabetes,175
+England,E92000001,Persons,80-84,Hypertensive diseases,155
+England,E92000001,Persons,80-84,Parkinson's disease,131
+England,E92000001,Persons,80-84,Heart failure and complications and ill-defined heart disease,113
+England,E92000001,Persons,80-84,Malignant neoplasm of prostate,94
+England,E92000001,Persons,80-84,Cardiac arrhythmias,70
+England,E92000001,Persons,80-84,Malignant neoplasms of lymphoid haematopoietic and related tissue,70
+England,E92000001,Persons,80-84,Malignant neoplasm of trachea bronchus and lung,57
+England,E92000001,Persons,80-84,Other degenerative diseases of nervous system not elsewhere classified,45
+England,E92000001,Persons,80-84,Fracture of femur,43
+England,E92000001,Persons,80-84,Pulmonary oedema and other intestinal pulmonary diseases,41
+England,E92000001,Persons,80-84,Malignant neoplasms of breast,26
+England,E92000001,Persons,80-84,All deaths involving COVID-19,"9,137"
+England,E92000001,Persons,85-89,Dementia and Alzheimer's disease,"3,699"
+England,E92000001,Persons,85-89,Ischaemic heart diseases,934
+England,E92000001,Persons,85-89,Influenza and pneumonia,926
+England,E92000001,Persons,85-89,No pre-existing condition,753
+England,E92000001,Persons,85-89,Symptoms signs and ill-defined conditions,627
+England,E92000001,Persons,85-89,Chronic lower respiratory diseases,517
+England,E92000001,Persons,85-89,Cerebrovascular diseases,355
+England,E92000001,Persons,85-89,Diseases of the urinary system,248
+England,E92000001,Persons,85-89,Heart failure and complications and ill-defined heart disease,182
+England,E92000001,Persons,85-89,Cardiac arrhythmias,133
+England,E92000001,Persons,85-89,Diabetes,95
+England,E92000001,Persons,85-89,Hypertensive diseases,90
+England,E92000001,Persons,85-89,Parkinson's disease,87
+England,E92000001,Persons,85-89,Malignant neoplasm of prostate,84
+England,E92000001,Persons,85-89,Malignant neoplasms of lymphoid haematopoietic and related tissue,55
+England,E92000001,Persons,85-89,Fracture of femur,49
+England,E92000001,Persons,85-89,Malignant neoplasm of trachea bronchus and lung,34
+England,E92000001,Persons,85-89,Pulmonary oedema and other intestinal pulmonary diseases,30
+England,E92000001,Persons,85-89,Other medical care,24
+England,E92000001,Persons,85-89,Malignant neoplasm of colon sigmoid rectum and anus,22
+England,E92000001,Persons,85-89,All deaths involving COVID-19,"9,808"
+England,E92000001,Persons,90+,Dementia and Alzheimer's disease,"3,943"
+England,E92000001,Persons,90+,Symptoms signs and ill-defined conditions,"2,197"
+England,E92000001,Persons,90+,No pre-existing condition,910
+England,E92000001,Persons,90+,Influenza and pneumonia,841
+England,E92000001,Persons,90+,Ischaemic heart diseases,646
+England,E92000001,Persons,90+,Cerebrovascular diseases,269
+England,E92000001,Persons,90+,Chronic lower respiratory diseases,239
+England,E92000001,Persons,90+,Heart failure and complications and ill-defined heart disease,224
+England,E92000001,Persons,90+,Diseases of the urinary system,197
+England,E92000001,Persons,90+,Cardiac arrhythmias,121
+England,E92000001,Persons,90+,Hypertensive diseases,120
+England,E92000001,Persons,90+,Malignant neoplasm of prostate,58
+England,E92000001,Persons,90+,Diabetes,51
+England,E92000001,Persons,90+,Fracture of femur,41
+England,E92000001,Persons,90+,Parkinson's disease,29
+England,E92000001,Persons,90+,Other medical care,17
+England,E92000001,Persons,90+,Malignant neoplasm of trachea bronchus and lung,16
+England,E92000001,Persons,90+,Viral infection of unspecified site,15
+England,E92000001,Persons,90+,Pulmonary oedema and other intestinal pulmonary diseases,14
+England,E92000001,Persons,90+,Acute respiratory diseases other than influenza and pneumonia,13
+England,E92000001,Persons,90+,All deaths involving COVID-19,"10,410"
+England,E92000001,Males,0-44,No pre-existing condition,71
+England,E92000001,Males,0-44,Influenza and pneumonia,45
+England,E92000001,Males,0-44,Diabetes,22
+England,E92000001,Males,0-44,Cirrhosis and other diseases of liver,14
+England,E92000001,Males,0-44,Malignant neoplasms of lymphoid haematopoietic and related tissue,10
+England,E92000001,Males,0-44,Congenital malformations deformations and chromosomal abnormalities,7
+England,E92000001,Males,0-44,Hypertensive diseases,7
+England,E92000001,Males,0-44,Ischaemic heart diseases,5
+England,E92000001,Males,0-44,Chronic lower respiratory diseases,4
+England,E92000001,Males,0-44,Mental and behavioural disorders due to psychoactive substance use,3
+England,E92000001,Males,0-44,Pulmonary heart disease and diseases of pulmonary circulation,3
+England,E92000001,Males,0-44,Cerebral palsy and other paralytic syndromes,2
+England,E92000001,Males,0-44,Cerebrovascular diseases,2
+England,E92000001,Males,0-44,Epilepsy and status epilepticus,2
+England,E92000001,Males,0-44,Heart failure and complications and ill-defined heart disease,2
+England,E92000001,Males,0-44,Intracranial injury,2
+England,E92000001,Males,0-44,Other degenerative diseases of nervous system not elsewhere classified,2
+England,E92000001,Males,0-44,Primary disorders of muscles,2
+England,E92000001,Males,0-44,Secondary malignant neoplasm of other sites,2
+England,E92000001,Males,0-44,Acute respiratory diseases other than influenza and pneumonia,1
+England,E92000001,Males,0-44,All deaths involving COVID-19,318
+England,E92000001,Males,45-49,Influenza and pneumonia,62
+England,E92000001,Males,45-49,No pre-existing condition,61
+England,E92000001,Males,45-49,Diabetes,19
+England,E92000001,Males,45-49,Ischaemic heart diseases,11
+England,E92000001,Males,45-49,Cirrhosis and other diseases of liver,9
+England,E92000001,Males,45-49,Hypertensive diseases,7
+England,E92000001,Males,45-49,Transplanted organ and tissue status,6
+England,E92000001,Males,45-49,Chronic lower respiratory diseases,5
+England,E92000001,Males,45-49,Malignant neoplasms of lymphoid haematopoietic and related tissue,5
+England,E92000001,Males,45-49,Symptoms signs and ill-defined conditions,5
+England,E92000001,Males,45-49,Cerebrovascular diseases,4
+England,E92000001,Males,45-49,Cardiomyopathy,2
+England,E92000001,Males,45-49,Intracranial injury,2
+England,E92000001,Males,45-49,Systemic atrophies primarily affecting the central nervous system,2
+England,E92000001,Males,45-49,Care involving dialysis,1
+England,E92000001,Males,45-49,Congenital malformations deformations and chromosomal abnormalities,1
+England,E92000001,Males,45-49,Dementia and Alzheimer's disease,1
+England,E92000001,Males,45-49,Diseases of the urinary system,1
+England,E92000001,Males,45-49,Injuries of unspecified body region,1
+England,E92000001,Males,45-49,Malignant neoplasm of brain,1
+England,E92000001,Males,45-49,All deaths involving COVID-19,269
+England,E92000001,Males,50-54,Influenza and pneumonia,91
+England,E92000001,Males,50-54,No pre-existing condition,80
+England,E92000001,Males,50-54,Hypertensive diseases,37
+England,E92000001,Males,50-54,Chronic lower respiratory diseases,35
+England,E92000001,Males,50-54,Ischaemic heart diseases,32
+England,E92000001,Males,50-54,Diabetes,24
+England,E92000001,Males,50-54,Cirrhosis and other diseases of liver,21
+England,E92000001,Males,50-54,Cerebrovascular diseases,15
+England,E92000001,Males,50-54,Malignant neoplasms of lymphoid haematopoietic and related tissue,11
+England,E92000001,Males,50-54,Intracranial injury,5
+England,E92000001,Males,50-54,Malignant neoplasm of colon sigmoid rectum and anus,5
+England,E92000001,Males,50-54,Diseases of the urinary system,4
+England,E92000001,Males,50-54,Malignant neoplasm of trachea bronchus and lung,4
+England,E92000001,Males,50-54,Symptoms signs and ill-defined conditions,4
+England,E92000001,Males,50-54,Heart failure and complications and ill-defined heart disease,3
+England,E92000001,Males,50-54,Malignant neoplasm of brain,3
+England,E92000001,Males,50-54,Mental and behavioural disorders due to psychoactive substance use,3
+England,E92000001,Males,50-54,Pulmonary oedema and other intestinal pulmonary diseases,3
+England,E92000001,Males,50-54,Transplanted organ and tissue status,3
+England,E92000001,Males,50-54,Cerebral palsy and other paralytic syndromes,2
+England,E92000001,Males,50-54,All deaths involving COVID-19,509
+England,E92000001,Males,55-59,No pre-existing condition,154
+England,E92000001,Males,55-59,Influenza and pneumonia,119
+England,E92000001,Males,55-59,Ischaemic heart diseases,86
+England,E92000001,Males,55-59,Hypertensive diseases,78
+England,E92000001,Males,55-59,Chronic lower respiratory diseases,69
+England,E92000001,Males,55-59,Diabetes,45
+England,E92000001,Males,55-59,Cirrhosis and other diseases of liver,32
+England,E92000001,Males,55-59,Malignant neoplasms of lymphoid haematopoietic and related tissue,26
+England,E92000001,Males,55-59,Cerebrovascular diseases,20
+England,E92000001,Males,55-59,Diseases of the urinary system,13
+England,E92000001,Males,55-59,Malignant neoplasm of trachea bronchus and lung,13
+England,E92000001,Males,55-59,Congenital malformations deformations and chromosomal abnormalities,10
+England,E92000001,Males,55-59,Transplanted organ and tissue status,9
+England,E92000001,Males,55-59,Heart failure and complications and ill-defined heart disease,8
+England,E92000001,Males,55-59,Malignant neoplasm of colon sigmoid rectum and anus,7
+England,E92000001,Males,55-59,Dementia and Alzheimer's disease,6
+England,E92000001,Males,55-59,Secondary malignant neoplasm of other sites,5
+England,E92000001,Males,55-59,Malignant neoplasm of pancreas,4
+England,E92000001,Males,55-59,Pulmonary oedema and other intestinal pulmonary diseases,4
+England,E92000001,Males,55-59,Systemic atrophies primarily affecting the central nervous system,4
+England,E92000001,Males,55-59,All deaths involving COVID-19,930
+England,E92000001,Males,60-64,Influenza and pneumonia,181
+England,E92000001,Males,60-64,Ischaemic heart diseases,177
+England,E92000001,Males,60-64,No pre-existing condition,152
+England,E92000001,Males,60-64,Chronic lower respiratory diseases,111
+England,E92000001,Males,60-64,Hypertensive diseases,95
+England,E92000001,Males,60-64,Diabetes,57
+England,E92000001,Males,60-64,Cerebrovascular diseases,44
+England,E92000001,Males,60-64,Malignant neoplasms of lymphoid haematopoietic and related tissue,33
+England,E92000001,Males,60-64,Cirrhosis and other diseases of liver,26
+England,E92000001,Males,60-64,Malignant neoplasm of trachea bronchus and lung,26
+England,E92000001,Males,60-64,Dementia and Alzheimer's disease,16
+England,E92000001,Males,60-64,Transplanted organ and tissue status,14
+England,E92000001,Males,60-64,Malignant neoplasm of prostate,11
+England,E92000001,Males,60-64,Diseases of the urinary system,10
+England,E92000001,Males,60-64,Heart failure and complications and ill-defined heart disease,8
+England,E92000001,Males,60-64,Mental and behavioural disorders due to psychoactive substance use,8
+England,E92000001,Males,60-64,Other medical care,8
+England,E92000001,Males,60-64,Symptoms signs and ill-defined conditions,8
+England,E92000001,Males,60-64,Pulmonary heart disease and diseases of pulmonary circulation,7
+England,E92000001,Males,60-64,Congenital malformations deformations and chromosomal abnormalities,6
+England,E92000001,Males,60-64,All deaths involving COVID-19,"1,309"
+England,E92000001,Males,65-69,Ischaemic heart diseases,249
+England,E92000001,Males,65-69,Influenza and pneumonia,203
+England,E92000001,Males,65-69,No pre-existing condition,189
+England,E92000001,Males,65-69,Chronic lower respiratory diseases,167
+England,E92000001,Males,65-69,Diabetes,115
+England,E92000001,Males,65-69,Cerebrovascular diseases,78
+England,E92000001,Males,65-69,Dementia and Alzheimer's disease,65
+England,E92000001,Males,65-69,Hypertensive diseases,52
+England,E92000001,Males,65-69,Malignant neoplasms of lymphoid haematopoietic and related tissue,44
+England,E92000001,Males,65-69,Malignant neoplasm of trachea bronchus and lung,36
+England,E92000001,Males,65-69,Cirrhosis and other diseases of liver,29
+England,E92000001,Males,65-69,Pulmonary oedema and other intestinal pulmonary diseases,18
+England,E92000001,Males,65-69,Malignant neoplasm of prostate,15
+England,E92000001,Males,65-69,Diseases of the urinary system,13
+England,E92000001,Males,65-69,Heart failure and complications and ill-defined heart disease,13
+England,E92000001,Males,65-69,Symptoms signs and ill-defined conditions,11
+England,E92000001,Males,65-69,Multiple sclerosis,10
+England,E92000001,Males,65-69,Malignant neoplasm of colon sigmoid rectum and anus,9
+England,E92000001,Males,65-69,Malignant neoplasm of oesophagus,8
+England,E92000001,Males,65-69,Secondary malignant neoplasm of other sites,8
+England,E92000001,Males,65-69,All deaths involving COVID-19,"1,718"
+England,E92000001,Males,70-74,Ischaemic heart diseases,462
+England,E92000001,Males,70-74,Chronic lower respiratory diseases,325
+England,E92000001,Males,70-74,Influenza and pneumonia,278
+England,E92000001,Males,70-74,Dementia and Alzheimer's disease,259
+England,E92000001,Males,70-74,No pre-existing condition,238
+England,E92000001,Males,70-74,Diabetes,154
+England,E92000001,Males,70-74,Cerebrovascular diseases,125
+England,E92000001,Males,70-74,Hypertensive diseases,82
+England,E92000001,Males,70-74,Malignant neoplasm of trachea bronchus and lung,65
+England,E92000001,Males,70-74,Malignant neoplasms of lymphoid haematopoietic and related tissue,64
+England,E92000001,Males,70-74,Parkinson's disease,52
+England,E92000001,Males,70-74,Malignant neoplasm of prostate,46
+England,E92000001,Males,70-74,Diseases of the urinary system,42
+England,E92000001,Males,70-74,Malignant neoplasm of colon sigmoid rectum and anus,22
+England,E92000001,Males,70-74,Pulmonary oedema and other intestinal pulmonary diseases,20
+England,E92000001,Males,70-74,Symptoms signs and ill-defined conditions,20
+England,E92000001,Males,70-74,Heart failure and complications and ill-defined heart disease,18
+England,E92000001,Males,70-74,Other degenerative diseases of nervous system not elsewhere classified,14
+England,E92000001,Males,70-74,Secondary malignant neoplasm of other sites,10
+England,E92000001,Males,70-74,Benign neoplasms in situ and uncertain behaviour,9
+England,E92000001,Males,70-74,All deaths involving COVID-19,"2,838"
+England,E92000001,Males,75-79,Ischaemic heart diseases,684
+England,E92000001,Males,75-79,Dementia and Alzheimer's disease,644
+England,E92000001,Males,75-79,Chronic lower respiratory diseases,482
+England,E92000001,Males,75-79,Influenza and pneumonia,326
+England,E92000001,Males,75-79,No pre-existing condition,289
+England,E92000001,Males,75-79,Cerebrovascular diseases,158
+England,E92000001,Males,75-79,Diabetes,156
+England,E92000001,Males,75-79,Diseases of the urinary system,95
+England,E92000001,Males,75-79,Malignant neoplasm of prostate,78
+England,E92000001,Males,75-79,Parkinson's disease,75
+England,E92000001,Males,75-79,Hypertensive diseases,68
+England,E92000001,Males,75-79,Malignant neoplasm of trachea bronchus and lung,58
+England,E92000001,Males,75-79,Malignant neoplasms of lymphoid haematopoietic and related tissue,49
+England,E92000001,Males,75-79,Symptoms signs and ill-defined conditions,42
+England,E92000001,Males,75-79,Fracture of femur,25
+England,E92000001,Males,75-79,Heart failure and complications and ill-defined heart disease,23
+England,E92000001,Males,75-79,Pulmonary oedema and other intestinal pulmonary diseases,23
+England,E92000001,Males,75-79,Other degenerative diseases of nervous system not elsewhere classified,15
+England,E92000001,Males,75-79,Malignant neoplasm of bladder,13
+England,E92000001,Males,75-79,Cardiac arrhythmias,11
+England,E92000001,Males,75-79,All deaths involving COVID-19,"3,909"
+England,E92000001,Males,80-84,Dementia and Alzheimer's disease,"1,423"
+England,E92000001,Males,80-84,Ischaemic heart diseases,921
+England,E92000001,Males,80-84,Chronic lower respiratory diseases,466
+England,E92000001,Males,80-84,Influenza and pneumonia,402
+England,E92000001,Males,80-84,No pre-existing condition,371
+England,E92000001,Males,80-84,Cerebrovascular diseases,202
+England,E92000001,Males,80-84,Diseases of the urinary system,162
+England,E92000001,Males,80-84,Diabetes,125
+England,E92000001,Males,80-84,Symptoms signs and ill-defined conditions,113
+England,E92000001,Males,80-84,Malignant neoplasm of prostate,94
+England,E92000001,Males,80-84,Parkinson's disease,84
+England,E92000001,Males,80-84,Hypertensive diseases,76
+England,E92000001,Males,80-84,Heart failure and complications and ill-defined heart disease,63
+England,E92000001,Males,80-84,Malignant neoplasms of lymphoid haematopoietic and related tissue,38
+England,E92000001,Males,80-84,Pulmonary oedema and other intestinal pulmonary diseases,37
+England,E92000001,Males,80-84,Malignant neoplasm of trachea bronchus and lung,31
+England,E92000001,Males,80-84,Other degenerative diseases of nervous system not elsewhere classified,25
+England,E92000001,Males,80-84,Fracture of femur,22
+England,E92000001,Males,80-84,Cardiac arrhythmias,15
+England,E92000001,Males,80-84,Malignant neoplasm of bladder,13
+England,E92000001,Males,80-84,All deaths involving COVID-19,"5,242"
+England,E92000001,Males,85-89,Dementia and Alzheimer's disease,"1,731"
+England,E92000001,Males,85-89,Ischaemic heart diseases,651
+England,E92000001,Males,85-89,Influenza and pneumonia,530
+England,E92000001,Males,85-89,No pre-existing condition,374
+England,E92000001,Males,85-89,Chronic lower respiratory diseases,270
+England,E92000001,Males,85-89,Symptoms signs and ill-defined conditions,241
+England,E92000001,Males,85-89,Diseases of the urinary system,166
+England,E92000001,Males,85-89,Cerebrovascular diseases,161
+England,E92000001,Males,85-89,Heart failure and complications and ill-defined heart disease,112
+England,E92000001,Males,85-89,Malignant neoplasm of prostate,84
+England,E92000001,Males,85-89,Parkinson's disease,59
+England,E92000001,Males,85-89,Cardiac arrhythmias,57
+England,E92000001,Males,85-89,Diabetes,53
+England,E92000001,Males,85-89,Malignant neoplasms of lymphoid haematopoietic and related tissue,33
+England,E92000001,Males,85-89,Hypertensive diseases,29
+England,E92000001,Males,85-89,Pulmonary oedema and other intestinal pulmonary diseases,24
+England,E92000001,Males,85-89,Fracture of femur,23
+England,E92000001,Males,85-89,Malignant neoplasm of colon sigmoid rectum and anus,14
+England,E92000001,Males,85-89,Malignant neoplasm of trachea bronchus and lung,14
+England,E92000001,Males,85-89,Malignant neoplasm of bladder,13
+England,E92000001,Males,85-89,All deaths involving COVID-19,"5,093"
+England,E92000001,Males,90+,Dementia and Alzheimer's disease,"1,430"
+England,E92000001,Males,90+,Symptoms signs and ill-defined conditions,579
+England,E92000001,Males,90+,Influenza and pneumonia,468
+England,E92000001,Males,90+,Ischaemic heart diseases,462
+England,E92000001,Males,90+,No pre-existing condition,333
+England,E92000001,Males,90+,Diseases of the urinary system,123
+England,E92000001,Males,90+,Chronic lower respiratory diseases,121
+England,E92000001,Males,90+,Cerebrovascular diseases,109
+England,E92000001,Males,90+,Heart failure and complications and ill-defined heart disease,82
+England,E92000001,Males,90+,Malignant neoplasm of prostate,58
+England,E92000001,Males,90+,Cardiac arrhythmias,46
+England,E92000001,Males,90+,Hypertensive diseases,42
+England,E92000001,Males,90+,Diabetes,23
+England,E92000001,Males,90+,Fracture of femur,22
+England,E92000001,Males,90+,Parkinson's disease,16
+England,E92000001,Males,90+,Other medical care,9
+England,E92000001,Males,90+,Malignant neoplasm of bladder,7
+England,E92000001,Males,90+,Malignant neoplasm of trachea bronchus and lung,7
+England,E92000001,Males,90+,Malignant neoplasms of lymphoid haematopoietic and related tissue,7
+England,E92000001,Males,90+,Pulmonary oedema and other intestinal pulmonary diseases,7
+England,E92000001,Males,90+,All deaths involving COVID-19,"4,214"
+England,E92000001,Females,0-44,Influenza and pneumonia,35
+England,E92000001,Females,0-44,No pre-existing condition,24
+England,E92000001,Females,0-44,Cirrhosis and other diseases of liver,12
+England,E92000001,Females,0-44,Congenital malformations deformations and chromosomal abnormalities,9
+England,E92000001,Females,0-44,Chronic lower respiratory diseases,6
+England,E92000001,Females,0-44,Diabetes,5
+England,E92000001,Females,0-44,Malignant neoplasms of breast,5
+England,E92000001,Females,0-44,Cerebrovascular diseases,3
+England,E92000001,Females,0-44,Diseases of the urinary system,3
+England,E92000001,Females,0-44,Malignant neoplasm of colon sigmoid rectum and anus,3
+England,E92000001,Females,0-44,Malignant neoplasms of lymphoid haematopoietic and related tissue,3
+England,E92000001,Females,0-44,Symptoms signs and ill-defined conditions,3
+England,E92000001,Females,0-44,Epilepsy and status epilepticus,2
+England,E92000001,Females,0-44,Malignant neoplasm of brain,2
+England,E92000001,Females,0-44,Malignant neoplasm of uterus,2
+England,E92000001,Females,0-44,Parkinson's disease,2
+England,E92000001,Females,0-44,Pregnancy childbirth and the puerperium,2
+England,E92000001,Females,0-44,Cardiomyopathy,1
+England,E92000001,Females,0-44,Cerebral palsy and other paralytic syndromes,1
+England,E92000001,Females,0-44,Diseases of the musculoskeletal system and connective tissue,1
+England,E92000001,Females,0-44,All deaths involving COVID-19,199
+England,E92000001,Females,45-49,No pre-existing condition,28
+England,E92000001,Females,45-49,Influenza and pneumonia,18
+England,E92000001,Females,45-49,Cirrhosis and other diseases of liver,12
+England,E92000001,Females,45-49,Chronic lower respiratory diseases,10
+England,E92000001,Females,45-49,Cerebrovascular diseases,7
+England,E92000001,Females,45-49,Diabetes,6
+England,E92000001,Females,45-49,Malignant neoplasms of breast,5
+England,E92000001,Females,45-49,Diseases of the musculoskeletal system and connective tissue,3
+England,E92000001,Females,45-49,Secondary malignant neoplasm of other sites,3
+England,E92000001,Females,45-49,Congenital malformations deformations and chromosomal abnormalities,2
+England,E92000001,Females,45-49,Hypertensive diseases,2
+England,E92000001,Females,45-49,Ischaemic heart diseases,2
+England,E92000001,Females,45-49,Malignant neoplasm of trachea bronchus and lung,2
+England,E92000001,Females,45-49,Artificial opening status,1
+England,E92000001,Females,45-49,Benign neoplasms in situ and uncertain behaviour,1
+England,E92000001,Females,45-49,Epilepsy and status epilepticus,1
+England,E92000001,Females,45-49,Malignant neoplasm of brain,1
+England,E92000001,Females,45-49,Malignant neoplasm of pancreas,1
+England,E92000001,Females,45-49,Malignant neoplasm without specification of site,1
+England,E92000001,Females,45-49,Malignant neoplasms of lymphoid haematopoietic and related tissue,1
+England,E92000001,Females,45-49,All deaths involving COVID-19,172
+England,E92000001,Females,50-54,Influenza and pneumonia,34
+England,E92000001,Females,50-54,No pre-existing condition,31
+England,E92000001,Females,50-54,Chronic lower respiratory diseases,28
+England,E92000001,Females,50-54,Diabetes,25
+England,E92000001,Females,50-54,Cirrhosis and other diseases of liver,18
+England,E92000001,Females,50-54,Malignant neoplasms of breast,10
+England,E92000001,Females,50-54,Ischaemic heart diseases,9
+England,E92000001,Females,50-54,Cerebrovascular diseases,8
+England,E92000001,Females,50-54,Multiple sclerosis,5
+England,E92000001,Females,50-54,Malignant neoplasm of trachea bronchus and lung,4
+England,E92000001,Females,50-54,Malignant neoplasms of lymphoid haematopoietic and related tissue,4
+England,E92000001,Females,50-54,Congenital malformations deformations and chromosomal abnormalities,3
+England,E92000001,Females,50-54,Diseases of the musculoskeletal system and connective tissue,3
+England,E92000001,Females,50-54,Diseases of the urinary system,3
+England,E92000001,Females,50-54,Epilepsy and status epilepticus,3
+England,E92000001,Females,50-54,Secondary malignant neoplasm of other sites,3
+England,E92000001,Females,50-54,Hypertensive diseases,2
+England,E92000001,Females,50-54,Other medical care,2
+England,E92000001,Females,50-54,Pulmonary heart disease and diseases of pulmonary circulation,2
+England,E92000001,Females,50-54,Symptoms signs and ill-defined conditions,2
+England,E92000001,Females,50-54,All deaths involving COVID-19,294
+England,E92000001,Females,55-59,No pre-existing condition,55
+England,E92000001,Females,55-59,Chronic lower respiratory diseases,46
+England,E92000001,Females,55-59,Influenza and pneumonia,38
+England,E92000001,Females,55-59,Diabetes,35
+England,E92000001,Females,55-59,Ischaemic heart diseases,20
+England,E92000001,Females,55-59,Cirrhosis and other diseases of liver,17
+England,E92000001,Females,55-59,Malignant neoplasm of trachea bronchus and lung,17
+England,E92000001,Females,55-59,Malignant neoplasms of breast,14
+England,E92000001,Females,55-59,Congenital malformations deformations and chromosomal abnormalities,12
+England,E92000001,Females,55-59,Hypertensive diseases,11
+England,E92000001,Females,55-59,Cerebrovascular diseases,10
+England,E92000001,Females,55-59,Dementia and Alzheimer's disease,6
+England,E92000001,Females,55-59,Malignant neoplasms of lymphoid haematopoietic and related tissue,6
+England,E92000001,Females,55-59,Multiple sclerosis,5
+England,E92000001,Females,55-59,Transplanted organ and tissue status,5
+England,E92000001,Females,55-59,Diseases of the musculoskeletal system and connective tissue,3
+England,E92000001,Females,55-59,Malignant neoplasm of brain,3
+England,E92000001,Females,55-59,Malignant neoplasm of colon sigmoid rectum and anus,3
+England,E92000001,Females,55-59,Pulmonary heart disease and diseases of pulmonary circulation,3
+England,E92000001,Females,55-59,Systemic atrophies primarily affecting the central nervous system,3
+England,E92000001,Females,55-59,All deaths involving COVID-19,445
+England,E92000001,Females,60-64,Chronic lower respiratory diseases,89
+England,E92000001,Females,60-64,Influenza and pneumonia,76
+England,E92000001,Females,60-64,No pre-existing condition,63
+England,E92000001,Females,60-64,Diabetes,38
+England,E92000001,Females,60-64,Ischaemic heart diseases,35
+England,E92000001,Females,60-64,Dementia and Alzheimer's disease,22
+England,E92000001,Females,60-64,Malignant neoplasms of lymphoid haematopoietic and related tissue,19
+England,E92000001,Females,60-64,Cerebrovascular diseases,15
+England,E92000001,Females,60-64,Diseases of the urinary system,15
+England,E92000001,Females,60-64,Multiple sclerosis,14
+England,E92000001,Females,60-64,Malignant neoplasm of trachea bronchus and lung,13
+England,E92000001,Females,60-64,Malignant neoplasms of breast,12
+England,E92000001,Females,60-64,Cirrhosis and other diseases of liver,9
+England,E92000001,Females,60-64,Hypertensive diseases,9
+England,E92000001,Females,60-64,Transplanted organ and tissue status,9
+England,E92000001,Females,60-64,Malignant neoplasm of colon sigmoid rectum and anus,6
+England,E92000001,Females,60-64,Other medical care,6
+England,E92000001,Females,60-64,Secondary malignant neoplasm of other sites,5
+England,E92000001,Females,60-64,Pulmonary heart disease and diseases of pulmonary circulation,4
+England,E92000001,Females,60-64,Benign neoplasms in situ and uncertain behaviour,3
+England,E92000001,Females,60-64,All deaths involving COVID-19,661
+England,E92000001,Females,65-69,Chronic lower respiratory diseases,145
+England,E92000001,Females,65-69,Influenza and pneumonia,108
+England,E92000001,Females,65-69,No pre-existing condition,89
+England,E92000001,Females,65-69,Diabetes,41
+England,E92000001,Females,65-69,Dementia and Alzheimer's disease,37
+England,E92000001,Females,65-69,Cerebrovascular diseases,32
+England,E92000001,Females,65-69,Diseases of the urinary system,30
+England,E92000001,Females,65-69,Ischaemic heart diseases,29
+England,E92000001,Females,65-69,Malignant neoplasm of trachea bronchus and lung,28
+England,E92000001,Females,65-69,Malignant neoplasms of lymphoid haematopoietic and related tissue,23
+England,E92000001,Females,65-69,Hypertensive diseases,16
+England,E92000001,Females,65-69,Cirrhosis and other diseases of liver,13
+England,E92000001,Females,65-69,Multiple sclerosis,13
+England,E92000001,Females,65-69,Malignant neoplasms of breast,10
+England,E92000001,Females,65-69,Secondary malignant neoplasm of other sites,10
+England,E92000001,Females,65-69,Symptoms signs and ill-defined conditions,10
+England,E92000001,Females,65-69,Malignant neoplasm of ovary,8
+England,E92000001,Females,65-69,Malignant neoplasm of colon sigmoid rectum and anus,7
+England,E92000001,Females,65-69,Systemic atrophies primarily affecting the central nervous system,7
+England,E92000001,Females,65-69,Diseases of the musculoskeletal system and connective tissue,5
+England,E92000001,Females,65-69,All deaths involving COVID-19,911
+England,E92000001,Females,70-74,Chronic lower respiratory diseases,329
+England,E92000001,Females,70-74,Dementia and Alzheimer's disease,189
+England,E92000001,Females,70-74,Influenza and pneumonia,139
+England,E92000001,Females,70-74,No pre-existing condition,132
+England,E92000001,Females,70-74,Ischaemic heart diseases,75
+England,E92000001,Females,70-74,Cerebrovascular diseases,73
+England,E92000001,Females,70-74,Diabetes,69
+England,E92000001,Females,70-74,Diseases of the urinary system,51
+England,E92000001,Females,70-74,Malignant neoplasm of trachea bronchus and lung,37
+England,E92000001,Females,70-74,Hypertensive diseases,28
+England,E92000001,Females,70-74,Malignant neoplasms of lymphoid haematopoietic and related tissue,24
+England,E92000001,Females,70-74,Malignant neoplasms of breast,17
+England,E92000001,Females,70-74,Symptoms signs and ill-defined conditions,16
+England,E92000001,Females,70-74,Secondary malignant neoplasm of other sites,10
+England,E92000001,Females,70-74,Heart failure and complications and ill-defined heart disease,9
+England,E92000001,Females,70-74,Parkinson's disease,8
+England,E92000001,Females,70-74,Transplanted organ and tissue status,8
+England,E92000001,Females,70-74,Cirrhosis and other diseases of liver,7
+England,E92000001,Females,70-74,Diseases of the musculoskeletal system and connective tissue,7
+England,E92000001,Females,70-74,Malignant neoplasm of uterus,7
+England,E92000001,Females,70-74,All deaths involving COVID-19,"1,530"
+England,E92000001,Females,75-79,Dementia and Alzheimer's disease,663
+England,E92000001,Females,75-79,Chronic lower respiratory diseases,364
+England,E92000001,Females,75-79,No pre-existing condition,196
+England,E92000001,Females,75-79,Influenza and pneumonia,189
+England,E92000001,Females,75-79,Ischaemic heart diseases,111
+England,E92000001,Females,75-79,Diabetes,87
+England,E92000001,Females,75-79,Cerebrovascular diseases,72
+England,E92000001,Females,75-79,Diseases of the urinary system,68
+England,E92000001,Females,75-79,Hypertensive diseases,47
+England,E92000001,Females,75-79,Symptoms signs and ill-defined conditions,42
+England,E92000001,Females,75-79,Malignant neoplasms of lymphoid haematopoietic and related tissue,32
+England,E92000001,Females,75-79,Malignant neoplasm of trachea bronchus and lung,30
+England,E92000001,Females,75-79,Malignant neoplasms of breast,27
+England,E92000001,Females,75-79,Parkinson's disease,24
+England,E92000001,Females,75-79,Heart failure and complications and ill-defined heart disease,19
+England,E92000001,Females,75-79,Other degenerative diseases of nervous system not elsewhere classified,16
+England,E92000001,Females,75-79,Diseases of the musculoskeletal system and connective tissue,13
+England,E92000001,Females,75-79,Pulmonary oedema and other intestinal pulmonary diseases,13
+England,E92000001,Females,75-79,Malignant neoplasm of colon sigmoid rectum and anus,9
+England,E92000001,Females,75-79,Pulmonary heart disease and diseases of pulmonary circulation,7
+England,E92000001,Females,75-79,All deaths involving COVID-19,"2,442"
+England,E92000001,Females,80-84,Dementia and Alzheimer's disease,"1,348"
+England,E92000001,Females,80-84,Chronic lower respiratory diseases,386
+England,E92000001,Females,80-84,Influenza and pneumonia,315
+England,E92000001,Females,80-84,Ischaemic heart diseases,284
+England,E92000001,Females,80-84,No pre-existing condition,283
+England,E92000001,Females,80-84,Cerebrovascular diseases,184
+England,E92000001,Females,80-84,Symptoms signs and ill-defined conditions,154
+England,E92000001,Females,80-84,Diseases of the urinary system,124
+England,E92000001,Females,80-84,Hypertensive diseases,79
+England,E92000001,Females,80-84,Cardiac arrhythmias,55
+England,E92000001,Females,80-84,Diabetes,50
+England,E92000001,Females,80-84,Heart failure and complications and ill-defined heart disease,50
+England,E92000001,Females,80-84,Parkinson's disease,47
+England,E92000001,Females,80-84,Malignant neoplasms of lymphoid haematopoietic and related tissue,32
+England,E92000001,Females,80-84,Malignant neoplasm of trachea bronchus and lung,26
+England,E92000001,Females,80-84,Malignant neoplasms of breast,26
+England,E92000001,Females,80-84,Fracture of femur,21
+England,E92000001,Females,80-84,Other degenerative diseases of nervous system not elsewhere classified,20
+England,E92000001,Females,80-84,Diseases of the musculoskeletal system and connective tissue,12
+England,E92000001,Females,80-84,Malignant neoplasm of colon sigmoid rectum and anus,11
+England,E92000001,Females,80-84,All deaths involving COVID-19,"3,895"
+England,E92000001,Females,85-89,Dementia and Alzheimer's disease,"1,968"
+England,E92000001,Females,85-89,Influenza and pneumonia,396
+England,E92000001,Females,85-89,Symptoms signs and ill-defined conditions,386
+England,E92000001,Females,85-89,No pre-existing condition,379
+England,E92000001,Females,85-89,Ischaemic heart diseases,283
+England,E92000001,Females,85-89,Chronic lower respiratory diseases,247
+England,E92000001,Females,85-89,Cerebrovascular diseases,194
+England,E92000001,Females,85-89,Diseases of the urinary system,82
+England,E92000001,Females,85-89,Cardiac arrhythmias,76
+England,E92000001,Females,85-89,Heart failure and complications and ill-defined heart disease,70
+England,E92000001,Females,85-89,Hypertensive diseases,61
+England,E92000001,Females,85-89,Diabetes,42
+England,E92000001,Females,85-89,Parkinson's disease,28
+England,E92000001,Females,85-89,Fracture of femur,26
+England,E92000001,Females,85-89,Malignant neoplasms of lymphoid haematopoietic and related tissue,22
+England,E92000001,Females,85-89,Malignant neoplasm of trachea bronchus and lung,20
+England,E92000001,Females,85-89,Malignant neoplasms of breast,16
+England,E92000001,Females,85-89,Other medical care,14
+England,E92000001,Females,85-89,Viral infection of unspecified site,14
+England,E92000001,Females,85-89,Other degenerative diseases of nervous system not elsewhere classified,11
+England,E92000001,Females,85-89,All deaths involving COVID-19,"4,715"
+England,E92000001,Females,90+,Dementia and Alzheimer's disease,"2,513"
+England,E92000001,Females,90+,Symptoms signs and ill-defined conditions,"1,618"
+England,E92000001,Females,90+,No pre-existing condition,577
+England,E92000001,Females,90+,Influenza and pneumonia,373
+England,E92000001,Females,90+,Ischaemic heart diseases,184
+England,E92000001,Females,90+,Cerebrovascular diseases,160
+England,E92000001,Females,90+,Heart failure and complications and ill-defined heart disease,142
+England,E92000001,Females,90+,Chronic lower respiratory diseases,118
+England,E92000001,Females,90+,Hypertensive diseases,78
+England,E92000001,Females,90+,Cardiac arrhythmias,75
+England,E92000001,Females,90+,Diseases of the urinary system,74
+England,E92000001,Females,90+,Diabetes,28
+England,E92000001,Females,90+,Fracture of femur,19
+England,E92000001,Females,90+,Parkinson's disease,13
+England,E92000001,Females,90+,Malignant neoplasms of breast,12
+England,E92000001,Females,90+,Diseases of the musculoskeletal system and connective tissue,9
+England,E92000001,Females,90+,Malignant neoplasm of trachea bronchus and lung,9
+England,E92000001,Females,90+,Acute respiratory diseases other than influenza and pneumonia,8
+England,E92000001,Females,90+,Other degenerative diseases of nervous system not elsewhere classified,8
+England,E92000001,Females,90+,Other medical care,8
+England,E92000001,Females,90+,All deaths involving COVID-19,"6,196"
