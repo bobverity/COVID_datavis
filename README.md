@@ -15,6 +15,8 @@ If the first and second waves were in different parts of the country then we wou
 
 ## Do pre-existing conditions explain the strong age-gradient in COVID-19 deaths?
 
+*NB - this is an updated version of plot. For original version see output/age_conditions_v1.png*
+
 See script *age_conditions.R*.
 
 We know that both age and the presence of certain underlying conditions (such as Diabetes, heart disease) are risk factors for death from COVID-19. But these two things are highly confounded, as people tend to develop more conditions as they age. This plot attempts to pull this apart in a very basic way by looking at the age-distribution of deaths in those *without* any pre-existing conditions, compared with those with at least one condition.
