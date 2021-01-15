@@ -13,7 +13,7 @@ If the first and second waves were in different parts of the country then we wou
 ![COVID-19 deaths by area](https://github.com/bobverity/COVID_datavis/blob/master/output/prop_covid_deaths_by_area.png?raw=true)
 
 
-## Do pre-existing conditions explain the strong\nage-gradient in COVID-19 deaths?
+## Do pre-existing conditions explain the strong age-gradient in COVID-19 deaths?
 
 See script *age_conditions.R*.
 
