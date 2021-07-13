@@ -24,3 +24,20 @@ We know that both age and the presence of certain underlying conditions (such as
 Results indicate that age still plays an important role even in otherwise-healthy individuals.
 
 ![Age-distribution of COVID-19 deaths with and without pre-existing conditions](https://github.com/bobverity/COVID_datavis/blob/master/output/age_conditions.png?raw=true)
+
+## How does age interact with vaccination to explain trends in cases and deaths?
+
+See script *age_vaccination.R*.
+
+Currently we are seeing a surge in cases but very low hospitalisations and deaths. Many plots circulating online cite these trends as proof that vaccines work. While I'm sure vaccines do work, it's important to take age into consideration when looking at "big picture" trends like this. We know from previous waves that cases can seed in the young and slowly track up through the age groups, causing a very long lag between the initial surge in cases and any downstream deaths. In a highly vaccinated population, this means deaths in the elderly vaccinated due to breakthrough infections will not become apparent immediately.
+
+Vaccination data comes from [UK gov data portal](https://coronavirus.data.gov.uk/details/vaccinations?areaType=nation&areaName=England) (selected cumPeopleVaccinatedCompleteByPublishDate from dropdown).
+
+Case data comes from [UK gov data portal](https://coronavirus.data.gov.uk/details/download) (in Supplementary Downloads, by specimin date).
+
+Deaths data comes from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) (downloaded 2020 and 2021 seperately, then combined).
+
+UK population pyramid comes from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/analysisofpopulationestimatestoolforuk)
+
+![Interaction between vaccination and age](https://github.com/bobverity/COVID_datavis/blob/master/output/age_vaccination.png?raw=true)
+
