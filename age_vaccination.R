@@ -83,7 +83,7 @@ dat_cases <- dat_cases %>%
 # are daily values)
 dat_cases <- dat_cases %>%
   dplyr::group_by(week_no, age) %>%
-  dplyr::summarise(date = date,
+  dplyr::summarise(date = date[1],
                    age = age[1],
                    age_lower = age_lower[1],
                    age_upper = age_upper[1],
@@ -114,6 +114,34 @@ age_df_hosp <- data.frame(age_lower = c(0, 6, 18, 65, 85),
 dat_hosp <- dat_hosp %>%
   dplyr::left_join(age_df_hosp) %>%
   dplyr::select(-age)
+
+# ------------------------------------------------------------------
+# AGGREGATE HOSPITALISATIONS
+
+# get week number for hospitalisation data
+dat_hosp <- dat_hosp %>%
+  dplyr::mutate(week_no = as.numeric(cut(date, breaks = week_breaks)))
+
+# get proportion of a week that is covered by data
+hosp_prop_week <- dat_hosp %>%
+  dplyr::group_by(week_no) %>%
+  dplyr::summarise(prop_week = n() / 7 / nrow(age_df_hosp)) %>%
+  dplyr::filter(prop_week == 1)
+
+# filter to complete weeks only
+dat_hosp <- dat_hosp %>%
+  dplyr::filter(week_no %in% hosp_prop_week$week_no)
+
+# aggregate hospitalisations into weeks (values now represent the mean over the
+# week, and so are daily values)
+dat_hosp <- dat_hosp %>%
+  dplyr::group_by(week_no, age_lower) %>%
+  dplyr::summarise(date = date[1],
+                   age_lower = age_lower[1],
+                   age_upper = age_upper[1],
+                   hospitalisations = mean(hospitalisations)) %>%
+  dplyr::ungroup() %>%
+  dplyr::select(date, age_lower, age_upper, hospitalisations)
 
 # ------------------------------------------------------------------
 # VACCINATION
