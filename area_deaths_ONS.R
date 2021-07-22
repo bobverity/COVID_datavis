@@ -15,7 +15,14 @@ library(dplyr)
 library(ggplot2)
 
 # read in raw data
-dat_raw <- read.csv("data/ons_week47.csv")
+dat_raw_2020 <- read.csv("data/ons_deaths_2020.csv")
+dat_raw_2021 <- read.csv("data/ons_deaths_2021.csv")
+
+# week number in 2021 should continue from 2020
+dat_raw_2021$Week.number <- dat_raw_2021$Week.number + max(dat_raw_2020$Week.number)
+
+# combine years
+dat_raw <- rbind(dat_raw_2020, dat_raw_2021)
 
 # split into COVID vs all cause deaths
 dat_covid <- dat_raw %>%
@@ -23,7 +30,7 @@ dat_covid <- dat_raw %>%
 dat_all <- dat_raw %>%
   filter(Cause.of.death == "All causes")
 
-# merge together
+# merge back together with separate columns for COVID vs all
 dat_covid <- dat_covid %>%
   rename(deaths_covid = Number.of.deaths) %>%
   select(-"Cause.of.death")
@@ -42,7 +49,7 @@ dat$prop_covid <- dat$deaths_covid / dat$deaths_all
 
 # get proportion COVID deaths in first wave (up to a given week)
 dat_wave1 <- dat %>%
-  filter(Week.number <= 30) %>%
+  filter(Week.number < 36) %>%
   group_by(Area.name) %>%
   summarise(prop_covid_wave1 = mean(prop_covid, na.rm = TRUE))
 
@@ -55,7 +62,17 @@ dat <- merge(dat, dat_wave1)
 dat$Area.name <- factor(dat$Area.name, levels = dat_wave1$Area.name)
 
 # convert weeks to calendar time
-dat$date <- as.Date(paste(2020, dat$Week.number, 1, sep="-"), "%Y-%U-%u")
+max_weeks <- max(dat$Week.number)
+dat$date <- seq(as.Date("2020-01-01"), length.out = max_weeks, by = "weeks")[dat$Week.number]
+
+# subset to areas with complete data for the whole time series
+df_complete <- dat %>%
+  dplyr::group_by(Area.code) %>%
+  dplyr::summarise(n = n()) %>%
+  dplyr::filter(n == max_weeks * 3)
+
+dat <- dat %>%
+  dplyr::filter(Area.code %in% df_complete$Area.code)
 
 # ----------------------------------------------------------------
 
@@ -65,15 +82,17 @@ plot1 <- ggplot(data = dat) + theme_bw() +
   scale_fill_viridis_c(option = "magma", na.value = "black", name = "Proportion\ndeaths due to\nCOVID-19\n") +
   facet_wrap(~Place.of.death) +
   theme(axis.text.y = element_blank(), axis.ticks.y = element_blank()) +
-  scale_x_date(expand = c(0, 0)) +
-  xlab("Date (year 2020)") + ylab("") +
+  scale_x_date(expand = c(0, 0), date_breaks = "6 month",
+               date_labels = "%y-%b") +
+  xlab("Date") + ylab("") +
   coord_cartesian(xlim = range(dat$date), clip = "off") +
   theme(strip.background = element_blank(),
-        strip.text = element_text(size = 10, face = "bold")) +
-  ggtitle("Has the second wave affected the same or different\nparts of the UK?")
+        strip.text = element_text(size = 10, face = "bold"),
+        panel.grid.minor.x = element_blank()) +
+  ggtitle("Did areas hit hard in the first wave\nexperience softer second waves?")
 
 # annotate with text
-df_ann <- data.frame(x = as.Date("2019-08-01"),
+df_ann <- data.frame(x = as.Date("2019-02-01"),
                      y = c(15, 330),
                      label = c("Areas spared\nin first wave", "Areas hit hard\nin first wave"),
                      Place.of.death = "Hospital")
@@ -101,6 +120,9 @@ plot1 <- plot1 +
 
 plot1
 
-# save to file
+# save plot to file
 ggsave("output/prop_covid_deaths_by_area.png", width = 7, height = 6)
+
+# save data to file
+saveRDS(dat, file = "output/area_deaths_data.rds")
 

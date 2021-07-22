@@ -25,15 +25,25 @@ Results indicate that age still plays an important role even in otherwise-health
 
 ![Age-distribution of COVID-19 deaths with and without pre-existing conditions](https://github.com/bobverity/COVID_datavis/blob/master/output/age_conditions.png?raw=true)
 
-## How does age interact with vaccination to explain trends in cases and deaths?
+## How does age interact with vaccination to explain trends in cases, hospitalisations and deaths?
+
+Last updated: 22 July 2021
 
 See script *age_vaccination.R*.
 
-Currently we are seeing a surge in cases but very low hospitalisations and deaths. Many plots circulating online cite these trends as proof that vaccines work. While I'm sure vaccines do work, it's important to take age into consideration when looking at "big picture" trends like this. We know from previous waves that cases can seed in the young and slowly track up through the age groups, causing a very long lag between the initial surge in cases and any downstream deaths. In a highly vaccinated population, this means deaths in the elderly vaccinated due to breakthrough infections will not become apparent immediately.
+Currently we are seeing a surge in cases but very low hospitalisations and deaths. Many plots circulating online cite these trends as proof that vaccines work. While I'm sure vaccines do work, it's important to take age into consideration when looking at "big picture" trends like this. We know from previous waves that cases tend to seed in the young and slowly track up through the age groups, causing a very long lag between the initial surge in cases and any downstream deaths. In a highly vaccinated population, this means deaths in the elderly vaccinated due to breakthrough infections will not become apparent immediately.
 
-Vaccination data comes from [UK gov data portal](https://coronavirus.data.gov.uk/details/vaccinations?areaType=nation&areaName=England) (selected cumPeopleVaccinatedCompleteByPublishDate from dropdown).
+Caveats:
+
+- Does not account for testing, which is why for instance cases appear so low in first wave
+- Some age groups are open in the raw data (e.g. 90+), in which case they are shown on the plot in a 5-year age group
+- Subject to all the individual caveats of the datasets listed below (follow links for details)
+
+Vaccination data comes from [UK gov data portal](https://coronavirus.data.gov.uk/details/vaccinations?areaType=nation&areaName=England) (go to heatmap at bottom of page and download as json).
 
 Case data comes from [UK gov data portal](https://coronavirus.data.gov.uk/details/download) (in Supplementary Downloads, by specimin date).
+
+Hospitalisation data comes from [NHS](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/) (first two .xlsx files).
 
 Deaths data comes from [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) (downloaded 2020 and 2021 seperately, then combined).
 
