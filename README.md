@@ -27,7 +27,7 @@ Results indicate that age still plays an important role even in otherwise-health
 
 ## How does age interact with vaccination to explain trends in cases, hospitalisations and deaths?
 
-Last updated: 22 July 2021
+Last updated: 03 Sep 2021
 
 See script *age_vaccination.R*.
 
