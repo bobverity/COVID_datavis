@@ -23,7 +23,7 @@ library(jsonlite)
 
 # read in age-disaggregated case data
 # from https://coronavirus.data.gov.uk/details/download
-dat_cases <- read.csv("data/nation_E92000001_2021-09-03.csv")
+dat_cases <- read.csv("data/nation_2021-11-19.csv")
 
 # define age bands
 age_df <- data.frame(age_lower = seq(0, 90, 5),
@@ -148,7 +148,7 @@ dat_hosp <- dat_hosp %>%
 
 # read in vaccination data
 # from https://coronavirus.data.gov.uk/details/vaccinations?areaType=nation&areaName=England
-vacc_raw <- jsonlite::fromJSON("data/vaccination2.json")
+vacc_raw <- jsonlite::fromJSON("data/vaccination.json")
 
 # extract age-breakdown as list
 vacc_list <- vacc_raw$data$vaccinationsAgeDemographics
